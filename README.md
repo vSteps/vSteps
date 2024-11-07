@@ -14,7 +14,7 @@
   
   - :zap: Explorando um pouco de front-end no meu tempo livre
   
-  - 🌱 Alternando entre teclados e baquetas 🥁
+  - 🌱 Alternando entre teclados⌨️ e baquetas 🥁
 </p>
 
 ---
