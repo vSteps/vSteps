@@ -10,7 +10,7 @@
 
 <p align="left">
   
-  - :books: Sou um estudante do curso de Análise e Desenvolvimento de Sistemas no IFRN, atualmente no 4º Período
+  - :books: Sou um estudante do curso de Análise e Desenvolvimento de Sistemas no IFRN, atualmente no 6º Período
   
   - :zap: Explorando um pouco de front-end no meu tempo livre
   
