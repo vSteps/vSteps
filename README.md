@@ -12,13 +12,11 @@
   
   - :books: Sou um estudante do curso de Análise e Desenvolvimento de Sistemas no IFRN, atualmente no 6º Período
   
-  - :zap: Explorando um pouco de front-end no meu tempo livre
-  
-  - 🌱 Alternando entre teclados⌨️ e baquetas 🥁
+  - :zap: Tenho interesse nas áreas de Desenvolvimento Back-end, Engenharia de Requisitos e Arquitetura de Software
 </p>
 
 ---
-### 🔥 Minhas estatísticas no github:
+### 🔥 Minhas estatísticas no GitHub
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vSteps&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height=150  />
